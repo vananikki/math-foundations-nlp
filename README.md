@@ -1,5 +1,3 @@
-# math-foundations-nlp
-This project explores the mathematical underpinnings of Natural Language Processing (NLP), focusing on logic, number theory, counting methods, and graph &amp; tree theory. It provides a structured overview of how discrete mathematics supports computational models for language understanding.
 Natural Language Processing (NLP), a pivotal discipline within Artificial Intelligence, en
 deavors to enable computers to comprehend and generate human language. This complex
 task necessitates the transformation of inherently ambiguous linguistic data into structured,
